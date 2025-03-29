@@ -1,6 +1,5 @@
 ## At a Glance
 <a href="https://github.com/drewlong314/drewlong314">
-<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=drewlong314&count_private=true&show_icons=true&theme=vue-dark&custom_title=Speeds%20and%20Feeds"/>
 </a>
 <a href="https://github.com/drewlong314/drewlong314">
 <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewlong314&exclude_repo=Prodigy&count_private=true&langs_count=6&theme=vue-dark&layout=compact&custom_title=Language%20Breakdown"/>
